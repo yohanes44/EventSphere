@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="EventSphere">3abeaae759fa42100747491ca88781c4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:02:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bebeaae76afa4210f5e06ab8a320fa74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_ux_page_property_bebeaae76afa4210f5e06ab8a320fa74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:02:32</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_854636_eventsp_0.3abeaae759fa42100747491ca88781c4.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bebeaae76afa4210f5e06ab8a320fa74"/>
+</record_update>

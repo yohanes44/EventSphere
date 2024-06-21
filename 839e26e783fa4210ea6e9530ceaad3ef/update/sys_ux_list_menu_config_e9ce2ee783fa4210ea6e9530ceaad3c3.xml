@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>EventSphere_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:02:40</sys_created_on>
+        <sys_id>e9ce2ee783fa4210ea6e9530ceaad3c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EventSphere_menu_config</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_e9ce2ee783fa4210ea6e9530ceaad3c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:02:40</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>

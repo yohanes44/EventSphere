@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:02:33</sys_created_on>
+        <sys_id>f6beaae7affa4210f8fbc336e7ea1b98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration">f2beaae7c5fa42104a8cd8fc73fe3a99</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Search Based Suggestion Reader">c41365e077020110be280d892c5a99f2</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_f6beaae7affa4210f8fbc336e7ea1b98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:02:33</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

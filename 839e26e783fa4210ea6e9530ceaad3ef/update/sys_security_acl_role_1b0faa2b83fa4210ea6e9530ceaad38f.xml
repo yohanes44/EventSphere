@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:03:53</sys_created_on>
+        <sys_id>1b0faa2b83fa4210ea6e9530ceaad38f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_854636_eventsp_0.eventsphere user</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_1b0faa2b83fa4210ea6e9530ceaad38f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:03:53</sys_updated_on>
+        <sys_user_role display_value="x_854636_eventsp_0.eventsphere user" name="x_854636_eventsp_0.eventsphere user">1b9e66e783fa4210ea6e9530ceaad32b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
