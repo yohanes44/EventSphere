@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>EventSphere Ribbon Config</description>
+        <name>EventSphere Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:02:32</sys_created_on>
+        <sys_id>b6beaae711fa421091fd4f126500b376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EventSphere Ribbon Config</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_b6beaae711fa421091fd4f126500b376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:02:32</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

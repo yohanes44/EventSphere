@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">eafea62b12fa421020c7983a2aaa8507</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">22fe662b55fa4210a4a052c8a41e2fc8</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:03:36</sys_created_on>
+        <sys_id>eafe662bc3fa42102d1dc4d14bff03c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_eafe662bc3fa42102d1dc4d14bff03c0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:03:36</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

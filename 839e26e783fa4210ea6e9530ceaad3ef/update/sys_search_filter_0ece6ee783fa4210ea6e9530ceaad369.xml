@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Task">acdb482783220210ea6e9530ceaad3e6</ais_search_source>
+        <label>Task</label>
+        <name>Task</name>
+        <order>100</order>
+        <search_context_config display_value="EventSphere AI Search Configuration">b6beaae7aafa4210bf3f06237d051096</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-21 07:02:43</sys_created_on>
+        <sys_id>0ece6ee783fa4210ea6e9530ceaad369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_search_filter_0ece6ee783fa4210ea6e9530ceaad369</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:02:43</sys_updated_on>
+    </sys_search_filter>
+</record_update>

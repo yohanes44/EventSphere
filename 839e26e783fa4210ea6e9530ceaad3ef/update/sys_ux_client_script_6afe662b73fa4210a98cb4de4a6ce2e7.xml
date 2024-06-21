@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">2afea62b31fa4210f20dec253dd63b01</macroponent>
+        <name>Refresh landing</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    if(event.payload.name !== 'refresh'){
+        return;
+    }
+    api.data.evam_mytasks.refresh();
+    api.data.evam_myrequests.refresh();
+    api.data.hide_content_sets_1.refresh();
+    api.data.hide_content_sets_2.refresh();
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-21 07:03:36</sys_created_on>
+        <sys_id>6afe662b73fa4210a98cb4de4a6ce2e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refresh landing</sys_name>
+        <sys_package display_value="EventSphere" source="x_854636_eventsp_0">839e26e783fa4210ea6e9530ceaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventSphere">839e26e783fa4210ea6e9530ceaad3ef</sys_scope>
+        <sys_update_name>sys_ux_client_script_6afe662b73fa4210a98cb4de4a6ce2e7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-21 07:03:36</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
